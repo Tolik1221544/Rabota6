@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsApp", "WordsApp\WordsApp.csproj", "{12FD6448-22F6-4E48-9C26-08DF21333ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FD6448-22F6-4E48-9C26-08DF21333ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FD6448-22F6-4E48-9C26-08DF21333ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FD6448-22F6-4E48-9C26-08DF21333ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FD6448-22F6-4E48-9C26-08DF21333ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1245CF01-0183-4575-BFE5-19F45E13530C}
+	EndGlobalSection
+EndGlobal
